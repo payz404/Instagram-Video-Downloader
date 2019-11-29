@@ -43,7 +43,7 @@ echo "\e[32m[+] Video Saved ".$output.".mp4\n\e[0m";
 
 
 
-
+system("mv ".$output.".mp4 /sdcard/");
 
 
 
