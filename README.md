@@ -19,6 +19,9 @@ Copy the video link that you want to download and put your link on this tool
 ex : 
 
 Put your Link: https://www.instagram.com/p/B3ZPHsrnNKN/?igshid=3p5p3x075jro
+
 Outputname: myvideo
+
+
 
 Thanks to ezcoder
